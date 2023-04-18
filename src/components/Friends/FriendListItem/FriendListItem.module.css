@@ -1,10 +1,10 @@
-.item {
+/* .item {
     display: flex;
     align-items: center;
     justify-content: flex-start;
     gap: 42px;
     margin: 0 auto;
-    padding: 12px;
+    padding: 4px;
 
     max-width: 100%;
     width: 360px;
@@ -12,6 +12,7 @@
     border-radius: 8px;
     box-shadow: -1px -1px 1px #fff, 1px 1px 1px #babecc;
     border: aqua;
+    background-color: #e9edff;
 }
 
 .status {
@@ -37,4 +38,4 @@
     text-shadow: 1px 1px 1px #fff;
     font-size: 16px;
     font-weight: 700;
-}
+} */
