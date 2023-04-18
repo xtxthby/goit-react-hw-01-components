@@ -3,10 +3,6 @@ import PropTypes from 'prop-types';
 
 import { Section, Title, StatList,StatListItem, Label, Percentage } from './Statistics.styled';
 
-
-
-
-// частина друга
 export const Statistics = ({ title, stats }) => {
     return <Section>
       {title && <Title>{title}</Title>}
